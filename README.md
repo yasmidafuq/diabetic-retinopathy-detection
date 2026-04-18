@@ -10,7 +10,7 @@ Cross-Dataset Generalization in Diabetic Retinopathy Detection using Machine Lea
 
 ---
 
-## 👤 Author
+## Author
 
 **Yaasmeen Abdulkareem**  
 Student ID: 23028337  
@@ -20,7 +20,7 @@ University of Bradford
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project investigates cross-dataset generalization challenges in automated diabetic retinopathy detection by systematically comparing classical machine learning and deep learning approaches across multiple independent datasets with different imaging characteristics.
 
@@ -30,13 +30,13 @@ This project investigates cross-dataset generalization challenges in automated d
 
 ### Key Finding
 
-⚠️ **All models (both classical ML and deep learning) exhibited severe performance degradation (35-50% accuracy drops) when tested on datasets with different imaging characteristics, highlighting critical challenges for real-world clinical deployment.**
+ **All models (both classical ML and deep learning) exhibited severe performance degradation (35-50% accuracy drops) when tested on datasets with different imaging characteristics, highlighting critical challenges for real-world clinical deployment.**
 
 This finding has significant implications for medical AI deployment - models achieving 95% accuracy in development may drop to 45-55% accuracy when deployed to hospitals with different equipment.
 
 ---
 
-## 🤖 Models Implemented
+## Models Implemented
 
 ### Classical Machine Learning
 - **Support Vector Machine (SVM)** - RBF kernel, optimized for non-linear boundaries
@@ -51,7 +51,7 @@ This finding has significant implications for medical AI deployment - models ach
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 | Dataset | Images | Role | Characteristics |
 |---------|--------|------|-----------------|
